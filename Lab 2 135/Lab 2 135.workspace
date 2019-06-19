@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Lab 2 135" Database="" Version="10.0.0">
+  <Project Name="TaskA" Path="TaskA/TaskA.project" Active="No"/>
+  <Project Name="TaskB" Path="TaskB/TaskB.project" Active="No"/>
+  <Project Name="TaskC" Path="TaskC/TaskC.project" Active="No"/>
+  <Project Name="arrays" Path="../Section7/arrays/arrays.project" Active="No"/>
+  <Project Name="TaskD" Path="TaskD/TaskD.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="TaskA" ConfigName="Debug"/>
+      <Project Name="TaskB" ConfigName="Debug"/>
+      <Project Name="TaskC" ConfigName="Debug"/>
+      <Project Name="arrays" ConfigName="Debug"/>
+      <Project Name="TaskD" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="TaskA" ConfigName="Release"/>
+      <Project Name="TaskB" ConfigName="Release"/>
+      <Project Name="TaskC" ConfigName="Release"/>
+      <Project Name="arrays" ConfigName="Release"/>
+      <Project Name="TaskD" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
